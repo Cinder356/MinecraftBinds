@@ -41,5 +41,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['C:\\Users\\Пользователь\\PycharmProjects\\MinecraftBindsTests\\Icon.ico'],
+    icon=['C:\\Users\\Пользователь\\PycharmProjects\\MinecraftBinds-Tkinter\\Icon.ico'],
 )
